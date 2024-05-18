@@ -1,0 +1,58 @@
+ Smart Dustbin
+
+This project implements a smart dustbin system using Arduino, capable of automatically opening its lid when motion is detected and sending alerts when the garbage level reaches a certain threshold.
+
+Features
+
+- Automatic lid opening/closing based on motion detection.
+- Ultrasonic sensor to measure garbage level.
+- LCD display for real-time monitoring.
+- Full alert notification with simulated GPS coordinates/location.
+
+Components Used
+
+- Arduino Uno
+- PIR Motion Sensor
+- Ultrasonic Sensor (HC-SR04)
+- Servo Motor
+- LCD Display (16x2)
+- Jumper Wires
+
+Installation
+
+1. Clone this repository to your local machine.
+2. Upload the `smart_dustbin.ino` sketch to your Arduino board.
+3. Connect the components according to the pin configurations specified in the sketch.
+4. Power on the Arduino and monitor the LCD display for real-time updates.
+
+Usage
+
+1. Ensure that the dustbin lid is closed initially.
+2. When motion is detected near the dustbin, the lid automatically opens.
+3. Once the lid is open, users can dispose of garbage into the dustbin.
+4. The ultrasonic sensor measures the garbage level and displays it on the LCD.
+5. When the garbage level exceeds 80%, a full alert is sent with simulated GPS coordinates/location.
+6. The lid automatically closes after 5 seconds of no motion detection.
+
+Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/improvement`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to the branch (`git push origin feature/improvement`).
+6. Create a new Pull Request.
+
+ License
+
+This project is licensed under the [MIT License](LICENSE).
+
+ Acknowledgements
+
+- [Arduino](https://www.arduino.cc/) - For providing an open-source electronics platform.
+- [LiquidCrystal Library](https://www.arduino.cc/en/Reference/LiquidCrystal) - For interfacing with LCD displays.
+- [Servo Library](https://www.arduino.cc/en/Reference/Servo) - For controlling servo motors.
+- [HC-SR04 Ultrasonic Sensor Datasheet](https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf) - For sensor specifications and usage.
+
