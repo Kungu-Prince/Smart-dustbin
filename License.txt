@@ -12,9 +12,9 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-If the Software is sold by any entity other than [fullname], the original author
-([fullname]) must be recognized as the source of the Software in all marketing
-materials, and a token amount of 10% of all sales must be paid to [fullname].
+If the Software is sold by any entity other than [Prince Kung'u Ndung'u, Tiffany Gathoni Wanjiku, Lynn Kathomi Njoroge], the original author
+(Prince Kung'u Ndung'u, Tiffany Gathoni Wanjiku, Lynn Kathomi Njoroge) must be recognized as the source of the Software in all marketing
+materials, and a token amount of 10% of all sales must be paid to [Prince Kung'u Ndung'u, Tiffany Gathoni Wanjiku, Lynn Kathomi Njoroge].
 
 This license was added on [date and time].
 
