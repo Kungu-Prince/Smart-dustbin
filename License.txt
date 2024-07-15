@@ -1,6 +1,6 @@
 Custom License
 
-Copyright (c) [2024, June 15 time 1723 hours] [Prince Kung'u Ndung'u]
+Copyright (c) [2024, June 15 time 1723 hours] [Prince Kung'u Ndung'u, Tiffany Gathoni Wanjiku, Lynn Kathomi Njoroge]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
